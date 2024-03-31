@@ -30,7 +30,7 @@ Usage :  make
 | Line formatting (space and tabs) eval | 100%  | 8/8   | x     |
 | Error handling                  | 100%       | 5/5   | x     |
 | Error handling eval             | 100%       | 5/5   | x     |
-| End scores                      | 100%       | 51/51 | x     |
+| End scores                      | 100%       | 47/47 | x     |
 
 
 Beware of -42 Epitech students !!!
